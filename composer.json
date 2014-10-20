@@ -1,0 +1,31 @@
+{
+    "name": "drupal/d3_cloud",
+    "homepage": "https://drupal.org/project/d3_cloud",
+    "type": "drupal-module",
+    "description": "The d3-cloud module.",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "jasondavies/d3-cloud",
+                "version": "v1.0.5",
+                "source": {
+                    "url": "git@github.com:jasondavies/d3-cloud.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ],
+    "require": {
+        "jasondavies/d3-cloud": "1.0.*"
+    },
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Stefan Auditor (sanduhrs)",
+            "homepage": "https://www.drupal.org/u/sanduhrs"
+        }
+    ],
+    "keywords": ["drupal", "d3", "d3-cloud"]
+}

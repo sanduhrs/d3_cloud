@@ -1,0 +1,27 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "2b96ff64e6e79c8d93145011ccbd48cf",
+    "packages": [
+        {
+            "name": "jasondavies/d3-cloud",
+            "version": "v1.0.5",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:jasondavies/d3-cloud.git",
+                "reference": "master"
+            },
+            "type": "library"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}
